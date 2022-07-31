@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/html_study.iml" filepath="$PROJECT_DIR$/html_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../redis-distributed-lock/redis-distributed-lock.iml" filepath="$PROJECT_DIR$/../redis-distributed-lock/redis-distributed-lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taotao-after-study/taotao-after-study.iml" filepath="$PROJECT_DIR$/../taotao-after-study/taotao-after-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taotao-after-study-web/taotao-after-study-web.iml" filepath="$PROJECT_DIR$/../taotao-after-study-web/taotao-after-study-web.iml" />
+    </modules>
+  </component>
+</project>
